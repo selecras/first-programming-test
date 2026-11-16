@@ -1,5 +1,7 @@
 lab7.pdf
 .idea/
 *.tmp
-*.pdf
+var1.pdf
+var2.pdf
+~$Отчёт.docx
 __pycache__/
